@@ -1,0 +1,2 @@
+# premium-zinc-cast-001-zinc-casting-spin-pour-mold
+Stop wasting zinc and time on inconsistent pours. Your spin pour experiments deserve a lab notebook that captures every variable—from mold temperature to spin speed—so you can replicate success every time.  This Notion template transforms your chaotic bench notes into a structured casting lab. Track recipes, mold specs, pour logs, and yield analysi
